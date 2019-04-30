@@ -65,7 +65,10 @@ Python version 3.6.5
 
 ## Running
 ```
-python basic_game.py 
-python extended_game.py
-```
+python task1.py
+ 
+python task2.py
 
+python task3.py
+
+```
